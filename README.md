@@ -1,10 +1,10 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an experienced professional, having collaborated with large and small organisations during the course of my career, contributing to the success of Future500 Corporates, as well as SMEs, startups and fast growing ScaleUps. My professional expertise gravitates around Entrepreneurship and Early stage Investment, with a focus on Tech and CleanTech industries. I lived, studied and worked in 5 countries so far, building a network of investors and corporate leaders across  the most important tech ecosystems in the world (particularly London, San Francisco, Tel Aviv, Paris, Lisbon, Dubai). As an Accelerator Manager, I helped many startups build their MVPs and get them funded. I have a strong professional interest in Product Development and Innovation - that’s why I recently joined Europe’s leading coding bootcamp, Makers’ Academy. . Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
-#### This Skill
+#### Excellent Communicator
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Fast Learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June to October 2017)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**PA Consulting** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
