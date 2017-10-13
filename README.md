@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (June to October 2017)
+#### Makers Academy, London (June to October 2017)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,46 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### HEC Paris, France (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
+#### Haas School of Business Berkeley, California (start_date to end_date)
+
+- Subject, any specialisms
+- Grade
+- Other cool stuff
+
+#### Escuela Superior de Ingenieros Seville, Spain (start_date to end_date)
+
+- Subject, any specialisms
+- Grade
+- Other cool stuff
+
+#### University of Florence, Italy (start_date to end_date)
+
+- Subject, any specialisms
+- Grade
+- Other cool stuff
+
+
+
 #### Any other qualifications
 
 ## Experience
 
-**PA Consulting** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**PA Consulting**                                         (March 2015 to April 2017)      London / Beirut / Dubai  
+*International Accelerator Manager*  
+**UK Trade and Investment**                               (August 2013 to March 2015)     London / Tel Aviv   
+*Talent Scout for Entrepreneurs - Sirius Programme*  
+**LightSource**                                           (June to August 2013)           London
+*Contract Manager* 
+**European SMEs**                                         (Sept 2011 to June 2013)        London  
+*Country Manager* 
+**Solyndra Inc**                                          (Feb 2010 to Sept 2011)         San Francisco / Munich / Milan
+*Business Development Manager* 
+**Air Liquide Italia**                                    (2006 - 2008)                   Milan
+*Product Manager* 
+*Hydrogen and Fuel Cell Specialist*                       (2004 - 2006)                   Milan
