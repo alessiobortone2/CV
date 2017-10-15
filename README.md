@@ -1,18 +1,20 @@
-## Your Name
+## Alessio Bortone
 
-I am an experienced professional, having collaborated with large and small organisations during the course of my career, contributing to the success of Future500 Corporates, as well as SMEs, startups and fast growing ScaleUps. My professional expertise gravitates around Entrepreneurship and Early stage Investment, with a focus on Tech and CleanTech industries. I lived, studied and worked in 5 countries so far, building a network of investors and corporate leaders across  the most important tech ecosystems in the world (particularly London, San Francisco, Tel Aviv, Paris, Lisbon, Dubai). As an Accelerator Manager, I helped many startups build their MVPs and get them funded. I have a strong professional interest in Product Development and Innovation - that’s why I recently joined Europe’s leading coding bootcamp, Makers’ Academy. . Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+As an International Accelerator Manager, I've been advising many scaleups on how to build their business and raise funds. 
+I joined Makers' Academy so that I could build their Products too. 
+I love working in highly entrepreneurial, innovative and fast growing organizations. I lived, studied and worked in 5 countries so far, learning to speak 4 Human languages along the way. Thanks to Makers', I now speak 3 Computer languages too - and as a newly trained Full Stack Developer, I am incredibly eager to learn more. 
 
 ## Skills
 
-#### Excellent Communicator
+#### Leading by Why 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Whenever I have the opportunity to lead a team or an organization, I always strive to provide meaning to our mission. 
 
-- Experience
-- Achievements
-- Evidence
+- As Product Manager in a Fortune 500 Corporation, I was tasked with turning around a loss making business unit. I put together a cross functional team and re-designed our commercial policy, leading our salesforce towards stretch goals. 
+- The team I was leading recovered 1.4MEur in 18 months, bringing the business unit back to profitability.
+- The result was so significant that the Company invested in my MBA, as a one-off bonus.
 
-#### Fast Learner
+#### Learning fast by doing 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,6 +22,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### 
 
 ## Education
 
@@ -34,46 +38,45 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### HEC Paris, France (start_date to end_date)
+#### HEC Paris, France (September 2008 to Jan 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Awarded HEC Excellence scholarship
+- Elected President, MBA Entrepreneurship Club
+- Received Deloitte Certificate in Energy & Finance
+- Selected for TEC (The Executive Committee) Programme
 
-#### Haas School of Business Berkeley, California (start_date to end_date)
+#### Haas School of Business Berkeley, California (August to December 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Core modules: Entrepreneurship, Venture Capital
+- Core interests: Clean Tech & Tech
 
 #### Escuela Superior de Ingenieros Seville, Spain (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Erasmus Scholarship
+- Core focus on Industrial Engineering
 
 #### University of Florence, Italy (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Final Thesis: “Design and Analysis of a Fuel Cell Bus System”
+Final grades: 106/110 (equivalent to high 2:1 in the UK)
 
-
-
-#### Any other qualifications
 
 ## Experience
 
-**PA Consulting**                                         (March 2015 to April 2017)      London / Beirut / Dubai  
+**PA Consulting**  (March 2015 to April 2017) - London / Beirut / Dubai  
 *International Accelerator Manager*  
-**UK Trade and Investment**                               (August 2013 to March 2015)     London / Tel Aviv   
+**UK Trade and Investment**  (August 2013 to March 2015) - London / Tel Aviv   
 *Talent Scout for Entrepreneurs - Sirius Programme*  
-**LightSource**                                           (June to August 2013)           London
+**LightSource**  (June to August 2013) - London
 *Contract Manager* 
-**European SMEs**                                         (Sept 2011 to June 2013)        London  
+**European SMEs**  (Sept 2011 to June 2013) - London  
 *Country Manager* 
-**Solyndra Inc**                                          (Feb 2010 to Sept 2011)         San Francisco / Munich / Milan
+**Solyndra Inc** (Feb 2010 to Sept 2011) - San Francisco / Munich / Milan
 *Business Development Manager* 
-**Air Liquide Italia**                                    (2006 - 2008)                   Milan
-*Product Manager* 
-*Hydrogen and Fuel Cell Specialist*                       (2004 - 2006)                   Milan
+**HEC Paris** (Sept 2008 - Jan 2010) - Paris 
+*Full-time MBA studies*
+**Air Liquide Italia** (Jan 2004 - Sept 2008) - Milan
+*Product Manager*                                         
+*Hydrogen and Fuel Cell Specialist*                           
+**I2T3** - (June 2003 - Dec 2003) - Florence
+*Junion Researcher*
