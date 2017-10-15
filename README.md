@@ -77,6 +77,4 @@ Final grades: 106/110 (equivalent to high 2:1 in the UK)
 *Full-time MBA studies*
 **Air Liquide Italia** (Jan 2004 - Sept 2008) - Milan
 *Product Manager*                                         
-*Hydrogen and Fuel Cell Specialist*                           
-**I2T3** - (June 2003 - Dec 2003) - Florence
-*Junion Researcher*
+*Hydrogen and Fuel Cell Specialist*
