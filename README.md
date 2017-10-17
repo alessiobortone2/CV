@@ -26,6 +26,8 @@ Whenever I have the opportunity to lead a team, I always strive to provide meani
 Despite my technical background, I have a strong interest in client-facing roles and business development. As the European Business Development Manager for Solyndra inc, a Californian startup focused on solar energy, I pursued deals and projects for solar infrastructure, delivering a turnover of more than 12MEur in the first 18 months in the job. 
 
 
+
+
 ## Education
 
 #### Makers Academy, London (June to October 2017)
@@ -35,11 +37,11 @@ While at Makers', I learn to live and work by XP Values and follow Agile process
 
 - Languages: Ruby, Python, Javascript, SQL, jQuery, Swift 
 - Frameworks: Rails, Node.js 
-- Testing Frameworks: RSpec, Jasmine
+- Testing Frameworks: RSpec, Jasmine, Mocha/Chai
 - ORMs: Datamapper 
 - HTML, CSS
 - Interactive Libraries: Matter.js, Canvas
-- Deployment via Heroku, AWS
+- Deployment: Heroku, AWS
 
 #### HEC Paris, France (September 2008 to Jan 2010)
 
@@ -78,12 +80,12 @@ While at Makers', I learn to live and work by XP Values and follow Agile process
 **European SMEs**  (Sept 2011 to June 2013) - London  
 *Country Manager* 
 
-**Solyndra Inc** (Feb 2010 to Sept 2011) - San Francisco / Munich / Milan
-*Business Development Manager* 
+**Solyndra Inc** (Feb 2010 to Sept 2011) - San Francisco / Munich / Milan 
+*Business Development Manager*
 
-**HEC Paris** (Sept 2008 - Jan 2010) - Paris 
-*Full-time MBA studies*
+**HEC Paris** (Sept 2008 - Jan 2010) - Paris  
+*Full time MBA studies*
 
 **Air Liquide Italia** (Jan 2004 - Sept 2008) - Milan
-*Product Manager*                                         
+*Product Manager*
 *Hydrogen and Fuel Cell Specialist*
