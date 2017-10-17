@@ -21,11 +21,11 @@ Whenever I have the opportunity to lead a team, I always strive to provide meani
 - The team I was leading recovered 1.4MEur in 18 months, bringing the business unit back to profitability.
 - The result was so significant that the Company invested in my MBA, as a one-off bonus
 
+More recently, I put together a team of fellow Makers, with the mission to design and build an Internet of Things device. We are exploring commercial applications of the product. You can find more information at https://github.com/alessiobortone2/Recurrio3
+
 #### Commercial Awareness
 
 Despite my technical background, I have a strong interest in client-facing roles and business development. As the European Business Development Manager for Solyndra inc, a Californian startup focused on solar energy, I pursued deals and projects for solar infrastructure, delivering a turnover of more than 12MEur in the first 18 months in the job. 
-
-
 
 
 ## Education
@@ -74,7 +74,7 @@ While at Makers', I learn to live and work by XP Values and follow Agile process
 **UK Trade and Investment**  (August 2013 to March 2015) - London / Tel Aviv   
 *Talent Scout for Entrepreneurs - Sirius Programme*  
 
-**LightSource RE**  (June to August 2013) - London
+**LightSource RE**  (June to August 2013) - London  
 *Asset Manager* 
 
 **European SMEs**  (Sept 2011 to June 2013) - London  
