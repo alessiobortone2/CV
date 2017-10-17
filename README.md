@@ -6,6 +6,13 @@ I love working in highly entrepreneurial, innovative and fast growing organizati
 
 ## Skills
 
+#### Fast Learning 
+
+Throughout my career, I challenged myself multiple times in order to keep learning subjects that were outside my comfort zone. 
+
+I pursued Classical studies in secondary school (Latin, Greek, Phylosophy, History), went on to study Mechanical Engineering at University. Completed with a 2:1, despite no background in maths and science. A few years later, I felt the need to enrich my formation with a Master of Business Administration. I have learned the languages of every country in which I lived. I have now completed my coding bootcamp, in order to update my skillset for the Tech industry. I continuously adapt to new subjects and I rapidly apply what I learn. 
+
+
 #### Leading by Why 
 
 Whenever I have the opportunity to lead a team, I always strive to provide meaning to our mission. 
@@ -14,32 +21,25 @@ Whenever I have the opportunity to lead a team, I always strive to provide meani
 - The team I was leading recovered 1.4MEur in 18 months, bringing the business unit back to profitability.
 - The result was so significant that the Company invested in my MBA, as a one-off bonus
 
-#### Fast Learning 
-
-Throughout my career, I challenged myself multiple times in order to keep learning subjects that were outside my comfort zone. 
-
-I pursued Classical studies in secondary school (Latin, Greek, Phylosophy, History), went on to study Mechanical Engineering at University. A few years later, I felt the need to enrich my formation with a Master of Business Administration. I have now completed my coding bootcamp, in order. I continuously adapt to new subjects and I rapidly apply what I learn. 
-
 #### Commercial Awareness
 
-I have consisten
-
-
-
+Despite my technical background, I have a strong interest in client-facing roles and business development. As the European Business Development Manager for Solyndra inc, a Californian startup focused on solar energy, I pursued deals and projects for solar infrastructure, delivering a turnover of more than 12MEur in the first 18 months in the job. 
 
 
 ## Education
 
 #### Makers Academy, London (June to October 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+In the 16 weeks at Makers' Academy, I had the opportunity to learn and apply best practice in Software Design. The focus was on learning skills rather than techniques, and therefore I have been trained in OOP, TDD, BDD and SOLID principles. 
+While at Makers', I learn to live and work by XP Values and follow Agile processes. However, I also built projects using:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages: Ruby, Python, Javascript, SQL, jQuery, Swift 
+- Frameworks: Rails, Node.js 
+- Testing Frameworks: RSpec, Jasmine
+- ORMs: Datamapper 
+- HTML, CSS
+- Interactive Libraries: Matter.js, Canvas
+- Deployment via Heroku, AWS
 
 #### HEC Paris, France (September 2008 to Jan 2010)
 
@@ -60,7 +60,7 @@ I have consisten
 
 #### University of Florence, Italy (Sept 1997 to Sept 2003)
 
-- Final Thesis: “Design and Analysis of a Fuel Cell Bus System”
+- Final Thesis: Analysis of a Fuel Cell Bus System
 - Final grades: 106/110 (equivalent to high 2:1 in the UK)
 
 
