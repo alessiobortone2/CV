@@ -83,9 +83,9 @@ While at Makers', I learn to live and work by XP Values and follow Agile process
 **Solyndra Inc** (Feb 2010 to Sept 2011) - San Francisco / Munich / Milan  
 *Business Development Manager*
 
-**HEC Paris** (Sept 2008 - Jan 2010) - Paris   
+**HEC Paris** (Sept 2008 - Jan 2010) - Paris  
 *Full time MBA studies*
 
 **Air Liquide Italia** (Jan 2004 - Sept 2008) - Milan  
-*Product Manager* .  
+*Product Manager*  
 *Hydrogen and Fuel Cell Specialist*
