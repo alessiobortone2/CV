@@ -10,7 +10,7 @@ I love working in highly entrepreneurial, innovative and fast growing organizati
 
 Throughout my career, I challenged myself multiple times in order to keep learning subjects that were outside my comfort zone. 
 
-I pursued Classical studies in secondary school (Latin, Greek, Phylosophy, History), went on to study Mechanical Engineering at University. Completed with a 2:1, despite no background in maths and science. A few years later, I felt the need to enrich my formation with a Master of Business Administration. I have learned the languages of every country in which I lived. I have now completed my coding bootcamp, in order to update my skillset for the Tech industry. I continuously adapt to new subjects and I rapidly apply what I learn. 
+I pursued Classical studies in secondary school (Latin, Greek, Phylosophy, History), went on to study Mechanical Engineering at University. Completed the course with a high 2:1, despite no previous background in maths and science. A few years later, as my career was progressing towards leadership roles, I felt the need to formalize my business education with a MBA. I studied the languages of every country in which I lived. I have now completed my coding bootcamp, in order to update my skillset and stay relevant in the Tech industry. I continuously adapt to new subjects and I rapidly apply what I learn. 
 
 
 #### Leading by Why 
