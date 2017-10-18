@@ -28,11 +28,12 @@ I pursued Classical studies in secondary school (Latin, Greek, Philosophy, Histo
 Despite my technical background, I have a strong interest in client-facing roles and business development. As the European Business Development Manager for Solyndra inc, a Californian startup focused on solar energy, I pursued deals and projects for solar infrastructure, delivering a turnover of more than 12 MEur in the first 18 months in the job. 
 
 
-#### Leading by Why 
+#### Leading by providing meaning 
 
 Whenever I have the opportunity to lead a team, I always strive to provide meaning to our mission. 
 
 - As Product Manager in a Fortune 500 Corporation, I was tasked with turning around a loss making business unit. I put together a cross functional team and re-designed our commercial policy, leading our salesforce towards stretch goals. 
+Ten years later, my ex-colleagues and ex-managers still remember the reason why we achieved our goals.  
 - The team I was leading recovered 1.4 MEur in 18 months, bringing the business unit back to profitability.
 - The result was so significant that the Company invested in my MBA, as a one-off bonus
 
@@ -107,11 +108,11 @@ Thanks to the imprinting received, I am committed to TDD and to the idea of craf
 
 ## Interests
 
-When I am not coding, I love spending my time doing any of the following: 
+When I am not coding or changing nappies, I love spending my time doing any of the following: 
 
 - Sailing (started a sailing company in my 20s)
 - Reading books on education matters
-- Cooking with wood fired ovens 
+- Cooking with wood fired ovens (warning: I can talk about the subject for an entire day)
 - Learning to play the piano with my daughters 
 - Writing in my blog [Medium](https://medium.com/@alessiobortone "Alessio's blog")
-- Building a treehouse in the garden (pictures coming up soon)
+- Building a treehouse for my kids in the garden (pictures coming up soon)
