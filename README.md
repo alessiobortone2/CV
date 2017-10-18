@@ -4,6 +4,16 @@ As an International Accelerator Manager and as a Talent Scout for Entrepreneurs,
 I joined Makers' Academy so that I could build their Products too. 
 I love working in highly entrepreneurial, innovative and fast growing organisations. I lived, studied and worked in 5 countries so far, learning to speak 4 Human languages along the way. Thanks to Makers', I now speak 4 Computer languages too - and as a newly trained Full Stack Developer, I am incredibly eager to learn more. 
 
+## Projects 
+
+| Title                                                               | Timeframe     | Description   |
+| ------------------------------------------------------------------- |:------------- | -------------:|
+| [Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio") | 2 weeks       |               |
+| Lemmings 2.0                                                        | 1 week        |               |
+| Airport                                                             | 1 weekend     |               |
+
+
+
 ## Skills
 
 #### Fast Learning 
