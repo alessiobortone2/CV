@@ -8,9 +8,9 @@ I love working in highly entrepreneurial, innovative and fast growing organisati
 
 |Title                                                                |Timeframe     |Description   |
 |:------------------------------------------------------------------- |:-------------:|:------------- |
-|[Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio") | 2 weeks       |IoT device using Arduino + Bluetooth Low Energy Module. App developed in Swift              |
-|[Lemmings](https://github.com/alessiobortone2/lemmings "Lemmings")   | 1 week        |Lemmings game revisited with Javascript and Matter.js               |
-|[Bank Account](https://github.com/alessiobortone2/tech_test_bank "Bank")| 2 days      |Simulation of a bank account using pure Ruby              |
+|[Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio") |2 weeks       |IoT device using Arduino + Bluetooth Low Energy Module. App developed in Swift              |
+|[Lemmings](https://github.com/alessiobortone2/lemmings "Lemmings")   |1 week        |Lemmings game revisited with Javascript and Matter.js               |
+|[Bank Account](https://github.com/alessiobortone2/tech_test_bank "Bank")|2 days      |Simulation of a bank account using pure Ruby              |
 
 
 
@@ -36,7 +36,7 @@ Whenever I have the opportunity to lead a team, I always strive to provide meani
 - The team I was leading recovered 1.4 MEur in 18 months, bringing the business unit back to profitability.
 - The result was so significant that the Company invested in my MBA, as a one-off bonus
 
-More recently, I put together a team of fellow Makers, with the mission to design and build an Internet of Things device. We are exploring commercial applications of the product. You can find more information at https://github.com/alessiobortone2/Recurrio3
+More recently, I put together a team of fellow Makers, with the mission of designing and building an Internet of Things device. We are exploring commercial applications of the product. You can find more information at [Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio")
 
 
 ## Education
@@ -113,5 +113,5 @@ When I am not coding, I love spending my time doing any of the following:
 - Reading books on education matters
 - Cooking with wood fired ovens 
 - Learning to play the piano with my daughters 
-- Writing in my blog 
+- Writing in my blog [Medium](https://medium.com/@alessiobortone "Alessio's blog")
 - Building a treehouse in the garden (pictures coming up soon)
