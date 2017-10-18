@@ -7,10 +7,10 @@ I love working in highly entrepreneurial, innovative and fast growing organisati
 ## Projects 
 
 | Title                                                               | Timeframe     | Description   |
-| ------------------------------------------------------------------- |:-------------:|:-------------:|
+| ------------------------------------------------------------------- |:-------------:|:------------- |
 |[Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio") | 2 weeks       | IoT device using Arduino + Bluetooth Low Energy Module. App developed in Swift              |
-|[Lemmings](https://github.com/alessiobortone2/lemmings "Lemmings"    | 1 week        | Lemmings game revisited with Javascript and Matter.js               |
-| Airport                                                             | 1 weekend     |               |
+|[Lemmings](https://github.com/alessiobortone2/lemmings "Lemmings")   | 1 week        | Lemmings game revisited with Javascript and Matter.js               |
+|[Bank Account](https://github.com/alessiobortone2/tech_test_bank "Bank"| 2 days      | Simulation of a bank account in pure Ruby              |
 
 
 
