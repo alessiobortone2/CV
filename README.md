@@ -23,6 +23,11 @@ Throughout my career, I challenged myself multiple times in order to keep learni
 I pursued Classical studies in secondary school (Latin, Greek, Philosophy, History), went on to study Mechanical Engineering at University. Completed the course with a high 2:1, despite no previous background in maths and science. A few years later, as my career was progressing towards leadership roles, I felt the need to formalise my business education with a MBA. I studied the languages of every country in which I lived. I have now completed my coding bootcamp, in order to update my skillset and stay relevant in the Tech industry. I continuously adapt to new subjects and I rapidly apply what I learn. 
 
 
+#### Commercial Awareness
+
+Despite my technical background, I have a strong interest in client-facing roles and business development. As the European Business Development Manager for Solyndra inc, a Californian startup focused on solar energy, I pursued deals and projects for solar infrastructure, delivering a turnover of more than 12 MEur in the first 18 months in the job. 
+
+
 #### Leading by Why 
 
 Whenever I have the opportunity to lead a team, I always strive to provide meaning to our mission. 
@@ -32,10 +37,6 @@ Whenever I have the opportunity to lead a team, I always strive to provide meani
 - The result was so significant that the Company invested in my MBA, as a one-off bonus
 
 More recently, I put together a team of fellow Makers, with the mission to design and build an Internet of Things device. We are exploring commercial applications of the product. You can find more information at https://github.com/alessiobortone2/Recurrio3
-
-#### Commercial Awareness
-
-Despite my technical background, I have a strong interest in client-facing roles and business development. As the European Business Development Manager for Solyndra inc, a Californian startup focused on solar energy, I pursued deals and projects for solar infrastructure, delivering a turnover of more than 12 MEur in the first 18 months in the job. 
 
 
 ## Education
@@ -102,3 +103,15 @@ Thanks to the imprinting received, I am committed to TDD and to the idea of craf
 **Air Liquide Italia** (Jan 2004 - Sept 2008) - Milan  
 *Product Manager*  
 *Hydrogen and Fuel Cell Specialist*
+
+
+## Interests
+
+When I am not coding, I love spending my time doing any of the following: 
+
+- Sailing (started a sailing company in my 20s)
+- Reading books on education matters
+- Cooking with wood fired ovens 
+- Learning to play the piano with my daughters 
+- Writing in my blog 
+- Building a treehouse in the garden (pictures coming up soon)
