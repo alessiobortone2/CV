@@ -6,11 +6,11 @@ I love working in highly entrepreneurial, innovative and fast growing organisati
 
 ## Projects 
 
-| Title                                                               | Timeframe     | Description   |
-| ------------------------------------------------------------------- |:------------- | -------------:|
-| [Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio") | 2 weeks       |               |
-| Lemmings 2.0                                                        | 1 week        |               |
-| Airport                                                             | 1 weekend     |               |
+| Logo | Title                                                               | Timeframe     | Description   |
+| ---- | ------------------------------------------------------------------- |:------------- | -------------:|
+|      | [Recurrio](https://github.com/alessiobortone2/Recurrio3 "Recurrio") | 2 weeks       | IoT device using Arduino, Bluetooth Low Energy Module. App developed in Swift              |
+|      | Lemmings 2.0                                                        | 1 week        |               |
+|      | Airport                                                             | 1 weekend     |               |
 
 
 
