@@ -50,10 +50,10 @@ Thanks to the imprinting received, I am committed to TDD and to the idea of craf
 - Languages: Ruby, Python, Javascript, SQL, jQuery, Swift 
 - Frameworks: Rails, Node.js 
 - Testing Frameworks: RSpec, Jasmine, Mocha/Chai, Capybara
-- ORMs: Datamapper 
+- ORMs: Datamapper, PostgreSql
 - HTML, CSS
 - Libraries: Matter.js, Canvas
-- Deployment: Heroku, AWS
+- Deployment: Heroku, AWS, Travis CI
 - Version control via GitHub
 - Arduino & Arduino IDE
 
@@ -80,8 +80,13 @@ Thanks to the imprinting received, I am committed to TDD and to the idea of craf
 - Final Thesis: Analysis of a Fuel Cell Bus System
 - Final grades: 106/110 (equivalent to high 2:1 in the UK)
 
+Tools used during my studies: 
 
-## Experience
+- Design: Solidworks / Autodesk Fusion 360 / Autocad
+- Maths and Stats: Matlab / SPSS
+
+
+## Experience 
 
 **PA Consulting**  (March 2015 to April 2017) - London / Beirut / Dubai  
 *International Accelerator Manager*  
@@ -112,7 +117,7 @@ When I am not coding or changing nappies, I love spending my time doing any of t
 
 - Sailing (started a sailing company in my 20s)
 - Reading books on education matters
-- Cooking with wood fired ovens (warning: I can talk about the subject for an entire day)
+- Cooking with wood fired ovens (beware, I can talk about the subject for an entire day)
 - Learning to play the piano with my daughters 
 - Writing in my blog [Medium](https://medium.com/@alessiobortone "Alessio's blog")
 - Building a treehouse for my kids in the garden (pictures coming up soon)
