@@ -118,6 +118,6 @@ When I am not coding or changing nappies, I love spending my time doing any of t
 - Sailing (started a sailing company in my 20s)
 - Reading books on education matters 
 - Cooking with wood fired ovens (beware, I can talk about the subject for an entire day)
-- Learning to play the piano with my daughters (I massively recommend [Hoffman Academy] (https://www.hoffmanacademy.com/)
+- Learning to play the piano with my daughters. I massively recommend [Hoffman Academy](https://www.hoffmanacademy.com/)
 - Writing in my blog [Medium](https://medium.com/@alessiobortone "Alessio's blog")
 - Building a treehouse for my kids in the garden (pictures coming up soon)
